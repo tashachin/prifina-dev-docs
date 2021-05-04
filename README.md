@@ -1,3 +1,8 @@
+# WARNING
+**THIS REPO IS DEPRECATED.**
+
+Fork from [main here](https://github.com/libertyequalitydata/prifina-dev-docs).
+
 ---
 home: false
 heroImage: /img/logo.svg
